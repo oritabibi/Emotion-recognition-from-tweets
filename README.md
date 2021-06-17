@@ -3,7 +3,7 @@
 The purpose of this project is to research and create a model to get predictions of emotions from tweets.
 the user can scarp 100 tweets according to a search word and range of dates and immediately get statistical analysis of emotions. 
 
-This project was created with Python (version 3.8.6), tensorflow, pandas, twint,numpy and more libraries.
+This project was created with Python (version 3.8.6), streamlit, tensorflow, pandas, twint,numpy and more libraries.
 
 ## Project Research
 In order to understand the steps and what we did you are welcome to look at the <a href="Tweet_Emotion_Recognition-research_notebook.ipynb" >research jupyter notebook.</a>
