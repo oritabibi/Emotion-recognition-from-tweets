@@ -239,4 +239,3 @@ if is_clicked:
             'tweet': scraped_tweets,
             'predicted emotion': all_predictions,
          }))
-
